@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/logo.png" alt="German umlauts and symbols" height="256px" />
+</p>
+
 <h1 align="center">German umlauts and symbols</h1>
 
 <h3 align="center">
@@ -14,16 +18,17 @@ Alternatively, if you have AutoHotkey installed locally, you can `clone` the rep
 
 ## Shortcuts
 
-| Shortcut          | Result |
-| ----------------- | ------ |
-| `Alt + A`         | `ä`    |
-| `Shift + Alt + A` | `Ä`    |
-| `Alt + O`         | `ö`    |
-| `Shift + Alt + O` | `Ö`    |
-| `Alt + U`         | `ü`    |
-| `Shift + Alt + U` | `Ü`    |
-| `Alt + S`         | `ß`    |
-| `Alt + E`         | `€`    |
+| Shortcut              | Result              |
+| --------------------- | ------------------- |
+| `Shift + Alt + Pause` | Toggle `on` / `off` |
+| `Alt + A`             | `ä`                 |
+| `Shift + Alt + A`     | `Ä`                 |
+| `Alt + O`             | `ö`                 |
+| `Shift + Alt + O`     | `Ö`                 |
+| `Alt + U`             | `ü`                 |
+| `Shift + Alt + U`     | `Ü`                 |
+| `Alt + S`             | `ß`                 |
+| `Alt + E`             | `€`                 |
 
 ## License
 

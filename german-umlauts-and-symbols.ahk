@@ -5,7 +5,18 @@ SendMode Input
 ; Sets custom tooltip title.
 Menu, Tray, Tip, German umlauts and symbols`nv1.0.0
 ; Sets custom icon.
-Menu, Tray, Icon, german-umlauts-and-symbols.png, , 1
+Menu, Tray, Icon, icon.ico, , 1
+
+; Toggle on / off (Shift + Alt + Pause)
++!Pause::
+Suspend, Toggle
+
+if (A_IsSuspended)
+  Menu, Tray, Icon, icon-suspended.ico, , 1
+else
+  Menu, Tray, Icon, icon.ico, , 1
+
+return
 
 ; ä (Alt + a)
 !a:: Send, ä
