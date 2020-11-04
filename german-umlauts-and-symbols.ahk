@@ -5,7 +5,7 @@ SendMode Input
 ; Sets custom tray icon.
 Menu, Tray, Icon, icon.ico, , 1
 ; Sets custom tooltip title.
-Menu, Tray, Tip, German umlauts and symbols`nv1.1.0
+Menu, Tray, Tip, German umlauts and symbols`nv1.1.1
 ; Removes all standard options.
 Menu, Tray, NoStandard
 ; Adds custom suspend option.
