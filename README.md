@@ -12,7 +12,7 @@
 
 ## Installation
 
-Go to [releases](https://github.com/jasontheiler/german-umlauts-and-symbols/releases), download the latest executable and run it.
+Go to [releases](https://github.com/jasontheiler/german-umlauts-and-symbols/releases), download the latest ZIP file, unzip it and run the executable.
 
 Alternatively, if you have AutoHotkey installed locally, you can `clone` the repository and run the script or compile the executable yourself.
 
