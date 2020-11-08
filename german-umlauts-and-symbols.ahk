@@ -37,34 +37,32 @@ updateMenu() {
   }
 }
 
-; Shortcuts
-
-; Suspend shortcuts (Shift + Alt + Pause)
+; [Shift + Alt + Pause] - Suspends shortcuts.
 +!Pause::
 Suspend, Toggle
 updateMenu()
 return
 
-; ä (Alt + a)
+; [Alt + a] - Sends ä.
 !a:: Send, ä
 
-; Ä (Shift + Alt + a)
+; [Shift + Alt + a] - Sends Ä.
 +!a:: Send, Ä
 
-; ö (Alt + o)
+; [Alt + o] - Sends ö.
 !o:: Send, ö
 
-; Ö (Shift + Alt + o)
+; [Shift + Alt + o] - Sends Ö.
 +!o:: Send, Ö
 
-; ü (Alt + u)
+; [Alt + u] - Sends ü.
 !u:: Send, ü
 
-; Ü (Shift + Alt + u)
+; [Shift + Alt + u] - Sends Ü.
 +!u:: Send, Ü
 
-; ß (Alt + s)
+; [Alt + s] - Sends ß.
 !s:: Send, ß
 
-; € (Alt + e)
+; [Alt + e] - Sends €.
 !e:: Send, €
