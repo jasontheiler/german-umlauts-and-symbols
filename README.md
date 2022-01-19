@@ -32,6 +32,4 @@ Alternatively, if you have AutoHotkey installed locally, you can `clone` the rep
 
 ## License
 
-[GPL-3.0 License](/LICENSE)
-
-Copyright © 2021 [Jason Theiler](https://github.com/jasontheiler)
+[GPL-3.0 License](/LICENSE) © 2021-PRESENT [Jason Theiler](https://github.com/jasontheiler)
